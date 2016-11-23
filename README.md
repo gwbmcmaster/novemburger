@@ -8,5 +8,5 @@ The city of Hamilton, Ontario hosts every year during the month of November, Nov
 
 <h3><strong>Requirements:</strong></h3>
 
-Software: R Studio, R Base (programming)
+Software: R Studio, R Base (programming)<br>
 Libraries: Shiny, dplyr, and leaflet 
